@@ -14,6 +14,7 @@ module.exports = {
         compress: true,
         port: 9000,
         host: 'localhost',
+        open: true
     },
 
     module: {
